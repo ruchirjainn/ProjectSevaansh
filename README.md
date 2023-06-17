@@ -5,6 +5,7 @@ Special mention to chatGPT,stackOverflow & Youtubers(Tech Brothers,Flutter Way,d
 Project Sevaansh is a comprehensive donation scheme app aimed at connecting users and facilitating donations for various causes. With both a user panel and an admin panel, it provides a seamless platform for users to contribute and for administrators to manage the system efficiently.
 
 **User Panel:**
+
 -Splash screen: A visually appealing introduction to the app.
 
 -Login and Sign Up: Secure authentication for users to access their accounts.
@@ -23,6 +24,7 @@ Project Sevaansh is a comprehensive donation scheme app aimed at connecting user
 
 
 **Admin Panel:**
+
 -User Management: Full control over user accounts, including editing and deleting user profiles.
 
 -Category Management: Ability to add, edit, and delete donation categories.
