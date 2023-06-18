@@ -40,3 +40,48 @@ Project Sevaansh aims to create a user-friendly and intuitive donation scheme ap
 For any assistance or issues, feel free to pull request
 
 The repository includes well-organized code files, documentation, and guidelines for installation, configuration, and usage. It promotes collaboration among developers and provides version control for easy tracking of changes and bug fixes.
+
+**SCREENS**
+
+**USER INTERFACE**
+
+1) Splash Screen
+![image](https://github.com/ruchirjainn/projectSevaansh/assets/114685271/3ccdaf44-8299-4a0e-b457-dff5e182472c)
+
+3) Welcome Screen
+![image](https://github.com/ruchirjainn/projectSevaansh/assets/114685271/19bdc60c-83eb-4986-a2f8-a6308e64d069)
+
+5) Login Screen
+![image](https://github.com/ruchirjainn/projectSevaansh/assets/114685271/d84791c4-797b-4d00-b77d-58400e932462)
+
+7) Sign Up Screen
+![image](https://github.com/ruchirjainn/projectSevaansh/assets/114685271/6542ad1f-a552-450e-8d16-5ba5bdc2a442)
+
+9) Home Screen 
+![image](https://github.com/ruchirjainn/projectSevaansh/assets/114685271/46e02350-66d2-4d42-a886-957e703be542)
+
+11) Category Screen
+![image](https://github.com/ruchirjainn/projectSevaansh/assets/114685271/2c8f751e-9a48-41da-8299-6a7501dfdcd1)
+
+13) Causes Details Screen
+![image](https://github.com/ruchirjainn/projectSevaansh/assets/114685271/1e4e42a5-b27b-4f24-83c3-1e292a228e51)
+
+15) Saved Cause List Screen
+16) Query Mail Screen
+17) Accout Screen
+18) Edit Profile Screen
+19) Change Password Screen
+20) About Us Screen
+21) Support Screen
+
+**ADMIN INTERFACE**
+
+1) Home Screen
+2) User Details Screen
+3) Edit User 
+5) Category Screen
+6) Edit Cateogry
+7) Add Cateogry
+8) Causes Screen
+9) Edit Cause 
+10) Add Cause
